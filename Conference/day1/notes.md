@@ -140,7 +140,7 @@ HPy is a better API for extending Python in C
 
 > zero overhead on Cpython. Faster on alternative implementations. Better debugging, universal API, 
 
-# include hpy.h
+#include hpy.h
 
 In the setup.py
 
