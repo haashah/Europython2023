@@ -1,10 +1,10 @@
-## Personal notes from talks
+# Personal notes from talks
 
 ## Europython 2023 conference day 1 
 
 ## 19.07.2023
 
-### Keynote:
+## Keynote:
 
 About comminxituy, open source software, python meet-ups, participation in the community is a free gift, it’s a kindness, if you contribute to an open source project it’s out of your kindness, volunteer
 Organising meet-ups, teaching a course, cintiebute code, using software, give feedback, conference talks,
@@ -19,7 +19,7 @@ https://colab.research.google.com/github/PicardParis/ep23/blob/main/EuroPython%2
 
 
 
-### Talk 1: How are we making Cpython faster
+## Talk 1: How are we making Cpython faster
 
 Mark Shannon
 
@@ -87,7 +87,7 @@ Python is getting faster, we expect it to keep getting faster, upgrade to most r
 
 
 
-### Talk 2:
+## Talk 2:
 
 Making f strings faster in 3.12
 
@@ -122,7 +122,7 @@ How many maximum f strings can we have? PEP specifies that at least give you 5. 
 
 
 
-### Talk3 Hpy
+## Talk3 Hpy
 
  Cpython alternatives, Graph , peppy, jpytyhon, improve execution time by implementing a JIT for example, different data structures
 GraalPY is 4.5 x faster than cypython
@@ -216,7 +216,7 @@ Behave for behavior driven tests at integration level testing. Or cucumber for e
 
 
 
-### Talk 5: CPython panel discussion: 
+## Talk 5: CPython panel discussion: 
 Question: Python code formatters 
 
 Black was built on the old parser. Not working with the new one. 
@@ -331,7 +331,7 @@ Facade design method. To create an API over component.
 
 
 
-### Talk 8:  LLMs from prototype to production
+## Talk 8:  LLMs from prototype to production
 
 SPACY
 
