@@ -1,0 +1,3 @@
+[submodule "Tutorials/pytest-ep2023"]
+	path = Tutorials/pytest-ep2023
+	url = git@github.com:haashah/pytest-ep2023.git
